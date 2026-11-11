@@ -1,5 +1,8 @@
 # ITClub-Map_project
 
+student: Aruuke Ermamatova 
+COMCEH25
+
 ## Project Description
 
 **IT Club Management System** is a Java-based project designed to manage members, projects, groups, and membership requests in an IT club.
