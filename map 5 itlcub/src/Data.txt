@@ -1,0 +1,5 @@
+
+Programming;Adilet;3;Programming;Python;P004;Python;Backend;adilet123
+WebDeveloper;Nurai;2;WebDeveloper;CSS;P005;JavaScript;Figma;5
+Cybersecurity;Bektur;3;Cybersecurity;Network;P006;Python;Wireshark;Security
+Programming;Aibek;1;Programming;Java;P007;Java;AI;aibek123
